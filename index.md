@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Zach's Practice Page
 
-You can use the [editor on GitHub](https://github.com/zacharybutler/excursion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This will be an area for me to pracitce codecademy projects and learning how github pages works.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
